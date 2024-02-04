@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "aN",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "pN",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/VariavelEstado.sol": "Ve"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/VariavelEstado.sol": {
+			"keccak256": "0xba27da6f71ca59c9e10f3659b6d0cf66e4f9eb2ceec1025e8517453076b1f8af",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f62a50b32daf72e613a0c92c3b4a01db377b727599bda6eb7ec603702bf5e948",
+				"dweb:/ipfs/Qme8crUHjGXY7FztYedruZVcJVFex9uFdrLT2AcuzCfFf5"
+			]
+		}
+	},
+	"version": 1
+}

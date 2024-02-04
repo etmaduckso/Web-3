@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "Saldacao",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/HelloWorld.sol": "Ola"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/HelloWorld.sol": {
+			"keccak256": "0xb62f8f45d59b6cc46935e0c0ea2da00b75c94cb7232d09b2d255a14d09f1694b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ff14805cce4a6d2b63f1041c226d151d15a346e6dd5d2cbb64023ae823700843",
+				"dweb:/ipfs/QmZy2vep1sKjZ1BbBcpq5a6oeGc21B8xE8PkBBMzMGYVid"
+			]
+		}
+	},
+	"version": 1
+}
